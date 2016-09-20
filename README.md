@@ -1,14 +1,11 @@
 ## Description
 
-Make a small Scrabble type game for a single-page web app.
+WORD SCRAMBLE! 
+To play, examine the scrambled set of letters presented to you.
+Find as many words as you can that can be formed using those letters. 
+Words must be unique.
 
-This game would be made of three words. You may style these in any way that you would like on the page.
 
-The program needs to scramble the three words, then the end user would have to unscramble the three words.
-
-If they are not successful, then they have to try again. They should have unlimited tries.
-
-Hint: think about arrays, if else statements. Code would be HTML/CSS/Javascript_
 
 ## Context
 
@@ -18,11 +15,9 @@ Make sure to look at templates if you need to, but you should create the code fr
 
 ## Specifications
 
-- [ ] Code can be viewed as a web page.
-- [ ] There are three words in the program that randomly scramble on page refresh.
-- [ ] User is prompted for an answer.
-- [ ] User is alerted of game results.
-- [ ] Basic CSS styling is used.
+- [ ] Points are earned and displayed for every word entered.
+- [ ] High Score is stored locally 
+- [ ] 
 
 ### Required
 
